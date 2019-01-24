@@ -1,0 +1,915 @@
+P1 1989/0002 Kobilarov Lazar 0
+P1 2002/0448 Nježic Marko 0
+P1 2010/0414 Petrovic Ilija 0
+P1 2010/0417 Golubovic Nemanja 17 8.5
+P1 2011/0229 Deanovic Ana 0
+P1 2011/0418 Vukanac Branko 0
+P1 2011/0461 Cosic Dušan 0
+P1 2011/0484 Markovic Aleksa 0
+P1 2011/0535 Beljakovic Ivana 0
+P1 2011/0554 Jovanovic Stefan 0
+P1 2012/0040 Todorov Srdan 0
+P1 2012/0284 Živkovic Teodora 0
+P1 2012/0430 Markovic Mima 0
+P1 2012/0437 Matijaševic Lena 0
+P1 2012/0548 Tošic Aleksej 0
+P1 2013/0498 Gavrilovic Tijana 0
+P1 2013/0580 Rajkovic Jordan 0
+P1 2013/0657 Petrovic Katarina 0
+P1 2013/0671 Kulenovic Matija 0
+P1 2014/0079 Pešterac Lazar 0
+P1 2014/0271 Vukmirovic Milan 4 2
+P1 2014/0273 Jovanovic Aleksandar 0
+P1 2014/0325 Andelkovic Ðorde 0
+Strana 1/18
+P1 2014/0352 Kosic Isidora 5 2.5
+P1 2014/0532 Markovic Aleksandar 15 7.5
+P1 2014/0626 Abazi Damir 0
+P1 2014/0662 Šušljik Stefan 13 6.5
+P1 2014/0673 Kovacina Milan 50 25
+P1 2015/0001 Vujcic Marko 35 17.5
+P1 2015/0088 Geric Stefan 36 18
+P1 2015/0255 Jankovic Nemanja 48 24
+P1 2015/0379 Drobnjak Aleksandra 0
+P1 2015/0410 Aleksic Natalija 1 0.5
+P1 2015/0505 Gavric Stevan 14 7
+P1 2015/0537 Mladenovic Dušan 0
+P1 2015/0546 Aleksic Lazar 0
+P1 2015/0558 Zdraveski Nikola 4 2
+P1 2015/0561 Dragutinovic Marko 0
+P1 2015/0591 Ðakovic Miloš 0
+P1 2015/0663 Ðuric Aleksandra 0
+P1 2016/0085 Markovic Mirjana 46 23
+P1 2016/0359 Damnjanovic Luka 0
+P1 2016/0388 Jelenic Nemanja 12 6
+P1 2016/0426 Niciforovic Dragoljub 8 4
+P1 2016/0436 Ðelmaš Ana 19 9.5
+P1 2016/0462 Gligorijevic Mila 28 14
+P1 2016/0473 Ardalic Marko 38 19
+Strana 1/18
+P1 2016/0498 Aleksic Milka 19 9.5
+P1 2016/0509 Ljubic Milan 0
+P1 2016/0521 Dunjic Jelena 42 21
+P1 2016/0567 Vukolic Ana 49 24.5
+P1 2016/0581 Babovic Apolina Bartolomea 13 6.5
+P1 2016/0603 Vjetrovic Lazar 1 0.5
+P1 2016/0611 Mijuškovic Ognjen 26 13
+P1 2016/0625 Vujicic Aleksa 20 10
+P1 2016/0638 Miškovic Aleksa 0
+P1 2016/0645 Coric Igor 32 16
+P1 2016/0656 Bojic Andela 0
+P1 2016/0712 Vucinic Ilija 0
+P1 2017/0001 Ajdacic David 20 10
+P1 2017/0005 Andric Aleksandar 40 20
+P1 2017/0037 Bulatovic Ksenija 17 8.5
+P1 2017/0053 Gajic Trajan 44 22
+P1 2017/0138 Žikic Ana 33 16.5
+P1 2017/0148 Vujicic Predrag 35 17.5
+P1 2017/0151 Acimovic Nikola 31 15.5
+P1 2017/0178 Ðordevic Mihailo 0
+P1 2017/0189 Antic Jovan 46 23
+P1 2017/0208 Dobrijevic Milica 35 17.5
+P1 2017/0216 Davidovic Lazar 30 15
+P1 2017/0277 Vladejic Jelena 27 13.5
+P1 2017/0281 Vukosavljevic Marko 32 16
+P1 2017/0283 Isailovic Ljubomir 0
+P1 2017/0288 Jankovic Nikola 24 12
+Strana 2/18
+P1 2017/0288 Jankovic Nikola 24 12
+P1 2017/0349 Ðeric Ljubica 20 10
+P1 2017/0350 Žabic Milica 29 14.5
+P1 2017/0357 Vucic Vasilj 7 3.5
+P1 2017/0360 Ivaniševic Srdan 17 8.5
+P1 2017/0384 Ercegovac Ana 56 28
+P1 2017/0397 Antuševic Vladimir 55 27.5
+P1 2017/0401 Dragojlovic Sergej 55 27.5
+P1 2017/0402 Andric Nikola 8 4
+P1 2017/0414 Zubac Ðorde 45 22.5
+P1 2017/0416 Vasic Dragan 44 22
+P1 2017/0419 Zdravkovic Stefan 29 14.5
+P1 2017/0434 Boškovic Sofija 33 16.5
+P1 2017/0444 Ðukic Jovana 28 14
+P1 2017/0445 Vuckovic Miljana 33 16.5
+P1 2017/0457 Vuckovic Aleksandar 0
+P1 2017/0463 Dondur Jovan 0 0
+P1 2017/0469 Grubic Dunja 0
+P1 2017/0471 Blagojevic Jovan 0
+P1 2017/0478 Antic Jovan 42 21
+P1 2017/0480 Adžic Marko 35 17.5
+P1 2017/0490 Nikolic Marko 41 20.5
+P1 2017/0491 Jakovljev Bogdan 41 20.5
+P1 2017/0492 Bunijevac Svetlana 0 0
+Strana 2/18
+P1 2017/0498 Ðuricic Anja 6 3
+P1 2017/0499 Blešic Ðorde 19 9.5
+P1 2017/0516 Vujcic Lazar 32 16
+P1 2017/0520 Bojcic Olivera 37 18.5
+P1 2017/0523 Ivetic Filip 34 17
+P1 2017/0524 Ivanovic Jelisaveta 33 16.5
+P1 2017/0529 Jankovic Tijana 0
+P1 2017/0531 Arsenovic Veljko 28 14
+P1 2017/0533 Beronja Uroš 5 2.5
+P1 2017/0537 Ðordevic Daša 25 12.5
+P1 2017/0543 Stevanovic Lazar 0
+P1 2017/0552 Ðurdevic Danilo 50 25
+P1 2017/0554 Dubak Nikola 38 19
+P1 2017/0564 Ivanovic Kosta 32 16
+P1 2017/0567 Isic Kosta 53 26.5
+P1 2017/0570 Vukicevic Mihailo 33 16.5
+P1 2017/0571 Drljaca Nikola 10 5
+P1 2017/0576 Vasic Kuzman 41 20.5
+P1 2017/0584 Zdravkovic Vladimir 1 0.5
+P1 2017/0592 Eric Sofija 23 11.5
+P1 2017/0610 Vujovic Aleksandra 6 3
+P1 2017/0611 Ilic Veljko 37 18.5
+P1 2017/0623 Borzanovic Kristina 10 5
+P1 2017/0641 Jankovic Vanja 28 14
+P1 2017/0648 Živkovic Teodora 3 1.5
+P1 2017/0694 Vulovic Ðorde 55 27.5
+P1 2017/0699 Ajdacic Nadežda 0
+Strana 3/18
+P1 2017/0699 Ajdacic Nadežda 0
+P1 2017/0701 Petrovic Jovan 0
+P1 2017/0711 Bankovic Marko 4 2
+P1 2017/0713 Ilic Gordana 23 11.5
+P1 2017/0754 Mihailovic Verica 0
+P1 2018/0002 Ðuric Petar 2 1
+P1 2018/0009 Ðordevic Vujadin 26 13
+P1 2018/0017 Blagojevic Adam 0
+P1 2018/0018 Bandovic Danica 46 23
+P1 2018/0031 Ilic Andela 57 28.5
+P1 2018/0035 Bokcic Milica 24 12
+P1 2018/0037 Jahic Alma 44 22
+P1 2018/0038 Damnjanovic Filip 56 28
+P1 2018/0042 Grbic Mihailo 56 28
+P1 2018/0043 Debogovic Marina 38 19
+P1 2018/0044 Antic Ðorde 12 6
+P1 2018/0055 Božanic Milica 0
+P1 2018/0057 Ðukic David 55 27.5
+P1 2018/0063 Ilic Nikola 51 25.5
+P1 2018/0065 Borovic Nikola 48 24
+P1 2018/0072 Dodovic Matija 57 28.5
+P1 2018/0074 Jelenkovic Andrija 59 29.5
+P1 2018/0075 Arsenovic Marko 53 26.5
+P1 2018/0076 Dokmanovic Irena 54 27
+Strana 3/18
+P1 2018/0078 Vucovic Andelka 36 18
+P1 2018/0080 Velikinac Nikolaj 0
+P1 2018/0081 Ðordevic Emilija 57 28.5
+P1 2018/0085 Ðuric Sofija 55 27.5
+P1 2018/0087 Bankovic Nikola 3 1.5
+P1 2018/0092 Bogojevic Stefana 55 27.5
+P1 2018/0104 Došenovic Ognjen 25 12.5
+P1 2018/0106 Vodevic Pavle 27 13.5
+P1 2018/0107 Brankovic Mihajlo 32 16
+P1 2018/0108 Anastasijevic Ilija 55 27.5
+P1 2018/0111 Bašic Mladen 52 26
+P1 2018/0113 Bratic Anja 39 19.5
+P1 2018/0115 Vukovic Mladen 7 3.5
+P1 2018/0119 Vacic Milica 44 22
+P1 2018/0121 Jankovic Vladimir 56 28
+P1 2018/0125 Zlatkovic Marina 34 17
+P1 2018/0129 Dackovic Ana 20 10
+P1 2018/0135 Bakic Jelena 39 19.5
+P1 2018/0140 Živanovic Dora 43 21.5
+P1 2018/0145 Denic Damjan 59 29.5
+P1 2018/0147 Babovic Filip 18 9
+P1 2018/0149 Vorkapic Milana 46 23
+P1 2018/0154 Arsic Anica 35 17.5
+P1 2018/0162 Jablan Savo 17 8.5
+P1 2018/0167 Vukovic Luka 47 23.5
+P1 2018/0169 Ðulinac Stevan 29 14.5
+P1 2018/0171 Ðuric Andrija 42 21
+Strana 4/18
+P1 2018/0171 Ðuric Andrija 42 21
+P1 2018/0173 Jankovic Nemanja 45 22.5
+P1 2018/0174 Vukšic Luka 31 15.5
+P1 2018/0178 Zagorac Darinka 14 7
+P1 2018/0179 Vukotic Aleksa 55 27.5
+P1 2018/0181 Ðukanovic Miloje 0
+P1 2018/0182 Vulic Lazar 30 15
+P1 2018/0186 Živanovic Tamara 34 17
+P1 2018/0193 Gojak Mateja 54 27
+P1 2018/0199 Ikodinovic Valentina 39 19.5
+P1 2018/0202 Vojicic Uroš 44 22
+P1 2018/0206 Zdravkovic Milena 9 4.5
+P1 2018/0208 Bogdanovic Tijana 38 19
+P1 2018/0211 Aleksijevic Veljko 14 7
+P1 2018/0212 Vojinovic Aleksandar 18 9
+P1 2018/0218 Ðurkovic Aleksandra 35 17.5
+P1 2018/0219 Grujic Sara 21 10.5
+P1 2018/0225 Vukovic Nikola 9 4.5
+P1 2018/0231 Žarkovic Ðorde 43 21.5
+P1 2018/0238 Gicic Amar 54 27
+P1 2018/0239 Žunic Bogdan 44 22
+P1 2018/0241 Vukajlovic Kristian 6 3
+P1 2018/0244 Zecevic Danica 34 17
+P1 2018/0259 Adžic Filip 9 4.5
+Strana 4/18
+P1 2018/0260 Grubor Sonja 49 24.5
+P1 2018/0262 Zecevic Milan 8 4
+P1 2018/0263 Andelovic Marijana 23 11.5
+P1 2018/0266 Jegdic Luka 13 6.5
+P1 2018/0272 Ilic Sofija 40 20
+P1 2018/0277 Ðuric Marija 44 22
+P1 2018/0279 Ðašic Marko 34 17
+P1 2018/0281 Bjelic Zdravko 56 28
+P1 2018/0291 Vukovic Ana 57 28.5
+P1 2018/0298 Dimic Mina 12 6
+P1 2018/0301 Goranovic Ivana 19 9.5
+P1 2018/0302 Goraševic Pavle 27 13.5
+P1 2018/0313 Jankovic Bojan 21 10.5
+P1 2018/0325 Vrcelj Luka 15 7.5
+P1 2018/0327 Ðuric Mihailo 0 0
+P1 2018/0328 Damnjanovic Ranko 56 28
+P1 2018/0329 Gajic Valerija 5 2.5
+P1 2018/0332 Vujic Miloš 29 14.5
+P1 2018/0335 Veselinovic Dušan 38 19
+P1 2018/0350 Ðumic Teodora 31 15.5
+P1 2018/0358 Arsenijevic Vukan 26 13
+P1 2018/0364 Zlatanovic Jelena 22 11
+P1 2018/0367 Ivanovic Vuk 17 8.5
+P1 2018/0369 Živkovic Aleksa 7 3.5
+P1 2018/0372 Gigic Milan 41 20.5
+P1 2018/0376 Despotovic Anja 0 0
+P1 2018/0381 Burdžic Marko 30 15
+Strana 5/18
+P1 2018/0381 Burdžic Marko 30 15
+P1 2018/0383 Brkic Mladen 0 0
+P1 2018/0384 Jankovic Jana 29 14.5
+P1 2018/0391 Zdravkovic Sreten 22 11
+P1 2018/0396 Jelaca Vladimir 7 3.5
+P1 2018/0402 Basic Tijana 36 18
+P1 2018/0404 Grujic Teodora 51 25.5
+P1 2018/0405 Grujic Nevena 35 17.5
+P1 2018/0407 Bubalo Aleksandar 28 14
+P1 2018/0409 Vukomanovic Miloš 27 13.5
+P1 2018/0415 Žeželj Aleksa 30 15
+P1 2018/0420 Vidovic Petar 20 10
+P1 2018/0423 Živkovic Teodora 28 14
+P1 2018/0424 Boškovic Jelena 22 11
+P1 2018/0426 Vranic Mihajlo 30 15
+P1 2018/0429 Dobrijevic Dimitrije 8 4
+P1 2018/0430 Vukovic Sara 31 15.5
+P1 2018/0434 Ðordevic Mila 22 11
+P1 2018/0438 Dimitrijevic Aleksa 2 1
+P1 2018/0439 Vesic Vesna 27 13.5
+P1 2018/0441 Živkovic Jana 32 16
+P1 2018/0448 Dincic Isidora 23 11.5
+P1 2018/0449 Ðordevic Tijana 39 19.5
+P1 2018/0450 Ðuric Ðorde 47 23.5
+Strana 5/18
+P1 2018/0455 Aleksic Tijana 29 14.5
+P1 2018/0456 Antonijevic Marija 24 12
+P1 2018/0459 Elez Jelena 41 20.5
+P1 2018/0460 Ivanovic Nemanja 43 21.5
+P1 2018/0472 Denic Jovana 50 25
+P1 2018/0477 Bogdanovic Jovana 28 14
+P1 2018/0481 Ðordevic Nikola 29 14.5
+P1 2018/0484 Devedžic Miladin 31 15.5
+P1 2018/0488 Ðakovic Maja 44 22
+P1 2018/0489 Dimitrijevic Ðorde 33 16.5
+P1 2018/0495 Avramovic Relja 0
+P1 2018/0498 Gajic Miloš 0
+P1 2018/0501 Jevremovic Jovana 28 14
+P1 2018/0502 Budimski Magdalena 1 0.5
+P1 2018/0503 Vujinovic Milan 24 12
+P1 2018/0507 Gavric Milenko 37 18.5
+P1 2018/0510 Ilic Luka 30 15
+P1 2018/0511 Vukajlovic Damjan 29 14.5
+P1 2018/0520 Bjelanovic Dejan 7 3.5
+P1 2018/0523 Zdravkovic Jovan 6 3
+P1 2018/0531 Ðurovic Darinka 37 18.5
+P1 2018/0532 Gicevic Sanjin 6 3
+P1 2018/0533 Ðukic Milica 0
+P1 2018/0536 Babic Vuk 8 4
+P1 2018/0539 Bešic Dušan 32 16
+P1 2018/0541 Ilic Dušan 52 26
+P1 2018/0544 Ðurdevic Stefan 4 2
+Strana 6/18
+P1 2018/0544 Ðurdevic Stefan 4 2
+P1 2018/0549 Vucenovic Danka 26 13
+P1 2018/0558 Ðukic Dunja 31 15.5
+P1 2018/0559 Dragic Vladan 18 9
+P1 2018/0563 Ðordevic Hristina 0
+P1 2018/0565 Gavric Janko 6 3
+P1 2018/0568 Baroš Iva 17 8.5
+P1 2018/0575 Divljakovic Svetozar 24 12
+P1 2018/0577 Ivancic Milan 43 21.5
+P1 2018/0588 Avramovic Nevena 17 8.5
+P1 2018/0594 Dašic Marko 9 4.5
+P1 2018/0599 Jankovic Marija 2 1
+P1 2018/0603 Buric Vasilisa 18 9
+P1 2018/0605 Ðordevic Isidora 4 2
+P1 2018/0610 Vasiljkovic Lazar 26 13
+P1 2018/0613 Dimitrijevic Radoš 0
+P1 2018/0618 Ilic Stevan 2 1
+P1 2018/0626 Jankovic Branimir 0 0
+P1 2018/0628 Ðošovic Veljko 33 16.5
+P1 2018/0635 Grulovic Stefan 41 20.5
+P1 2018/0639 Eskic Filip 14 7
+P1 2018/0640 Barjaktarovic Maša 3 1.5
+P1 2018/0649 Janevski Jovan 5 2.5
+P1 2018/0650 Gerovic Sanjin 13 6.5
+Strana 6/18
+P1 2018/0651 Bilanovic Ðorde 36 18
+P1 2018/0659 Dangubic Ranka 15 7.5
+P1 2018/0672 Božic Emilija 38 19
+P1 2018/0675 Bukvic Miloš 11 5.5
+P1 2018/0684 Doderovic Milica 0 0
+P1 2018/0686 Brkovic Anja 16 8
+P1 2018/0690 Bežanovic Stefan 30 15
+P1 2018/0694 Gajic Katarina 0 0
+P1 2018/0706 Ðordevic Milan 26 13
+P1 2018/0714 Arsenovic Jovan 20 10
+P1 2018/0722 Zdravkovski Aleksa 13 6.5
+P2 1999/0768 Sokic Suncana 0
+P2 2001/0080 Nikolic Vladimir 0
+P2 2003/0448 Miloševic Saša 0
+P2 2003/0456 Pakovic Vukašin 0
+P2 2011/0313 Miljanovic Ivana 0
+P2 2011/0480 Martinovic Ðorde 0 0
+P2 2012/0329 Miloševic Miloš 1 0.5
+P2 2012/0392 Lakovic Uroš 0
+P2 2012/0416 Jovanovic Dejan 0
+P2 2013/0638 Markovic Miloš 0
+P2 2014/0308 Dimitrijevic Bojana 22 11
+P2 2014/0327 Miljkovic Stefan 0
+P2 2014/0435 Radulovic Andrej 52 26
+P2 2014/0551 Jovanovic Bojan 0 0
+P2 2015/0004 Milovanovic Tijana 45 22.5
+P2 2015/0132 Mihailovic Aleksandar 42 21
+Strana 7/18
+P2 2015/0132 Mihailovic Aleksandar 42 21
+P2 2015/0219 Mirkovic Tijana 2 1
+P2 2015/0294 Milosavljevic Dragan 8 4
+P2 2015/0450 Maksovic Andrea 20 10
+P2 2015/0476 Ninkovic Tamara 0
+P2 2015/0532 Milovanovic Miloš 0
+P2 2015/0553 Milutinovic Milica 24 12
+P2 2015/0560 Milinkovic Jovana 0
+P2 2015/0661 Jeftenic Ðuro 0
+P2 2016/0001 Marinkovic Vladimir 0
+P2 2016/0002 Lukic Nenad 0
+P2 2016/0170 Miloševic Ðorde 22 11
+P2 2016/0307 Milenkovic Maja 43 21.5
+P2 2016/0377 Miladinovic Jovana 50 25
+P2 2016/0389 Lazovic Luka 41 20.5
+P2 2016/0399 Ostojic Jovana 23 11.5
+P2 2016/0410 Nikolic Milica 42 21
+P2 2016/0443 Lazarevic Mia 57 28.5
+P2 2016/0458 Nenadovic Tanja 0
+P2 2016/0503 Milicevic Andrea 44 22
+P2 2016/0507 Milosavljevic Bojan 10 5
+P2 2016/0516 Mihajlovic Aleksa 7 3.5
+P2 2016/0569 Lukovic Uroš 55 27.5
+P2 2016/0592 Marjanovic Luka 15 7.5
+Strana 7/18
+P2 2016/0602 Matijaševic Uroš 28 14
+P2 2016/0617 Milic Jovan 0
+P2 2017/0038 Maric Dimitrije 53 26.5
+P2 2017/0063 Manic Dragan 7 3.5
+P2 2017/0076 Nikolic Ðorde 50 25
+P2 2017/0127 Milivojevic Nikola 44 22
+P2 2017/0158 Jovanovic Tamara 46 23
+P2 2017/0171 Pakic Isidora 21 10.5
+P2 2017/0173 Markovic Borian 35 17.5
+P2 2017/0233 Marinkovic Lazar 46 23
+P2 2017/0256 Maljkovic Ðorde 26 13
+P2 2017/0272 Nikolic Matea 14 7
+P2 2017/0273 Markovic Nikola 0
+P2 2017/0274 Maksimovic Stefan 29 14.5
+P2 2017/0278 Mitrovski Jovan 55 27.5
+P2 2017/0287 Mandic Aleksandar 53 26.5
+P2 2017/0302 Mandic Miljan 51 25.5
+P2 2017/0311 Kilibarda Aleksandar 21 10.5
+P2 2017/0321 Novakovic Stevan 31 15.5
+P2 2017/0328 Jovanovic Ilija 48 24
+P2 2017/0355 Milovanovic Lena 47 23.5
+P2 2017/0359 Krivacevic Marko 5 2.5
+P2 2017/0378 Lazarevic Nikola 0
+P2 2017/0393 Miljkovic Aleksa 48 24
+P2 2017/0417 Milosavljevic Mladen 55 27.5
+P2 2017/0452 Nenadovic Aleksa 15 7.5
+P2 2017/0453 Milosavljevic Ana 38 19
+Strana 8/18
+P2 2017/0453 Milosavljevic Ana 38 19
+P2 2017/0459 Mitrovic Dimitrije 1 0.5
+P2 2017/0462 Milic Milan 0 0
+P2 2017/0466 Miletic Miloš 4 2
+P2 2017/0473 Jovanovic Bojan 29 14.5
+P2 2017/0477 Karac Strahinja 38 19
+P2 2017/0514 Kastratovic Filip 28 14
+P2 2017/0515 Jeremic Uroš 25 12.5
+P2 2017/0521 Korda Darko 0
+P2 2017/0526 Kangrga-Mikulic Stefan 34 17
+P2 2017/0530 Jovanovic Dušan 40 20
+P2 2017/0546 Miloševic Stanko 11 5.5
+P2 2017/0547 Milojkovic Nemanja 41 20.5
+P2 2017/0549 Pajic Pavle 23 11.5
+P2 2017/0550 Nikolic Marko 15 7.5
+P2 2017/0557 Obradovic Aleksandra 0
+P2 2017/0572 Jokic Cedomir 0
+P2 2017/0589 Minic Jelena 17 8.5
+P2 2017/0601 Joksovic Tatjana 0 0
+P2 2017/0621 Nastic Martina 29 14.5
+P2 2017/0629 Lazic Marko 0
+P2 2017/0630 Josifovic Jovan 15 7.5
+P2 2017/0632 Mladenovski Zoran 13 6.5
+P2 2017/0633 Jovanovic Ljubomir 0
+Strana 8/18
+P2 2017/0649 Marjanovic Aleksandra 33 16.5
+P2 2017/0652 Koprivica Nevena 15 7.5
+P2 2017/0659 Lazarevic Ivana 0
+P2 2017/0662 Loncar Milica 25 12.5
+P2 2017/0667 Nedic Miloš 51 25.5
+P2 2017/0671 Mladenovic Ivan 36 18
+P2 2017/0675 Nestorovic Ana 17 8.5
+P2 2017/0681 Novakovic Marija 22 11
+P2 2017/0682 Mihajlovic Uroš 7 3.5
+P2 2017/0704 Nedic Mihailo 13 6.5
+P2 2017/0708 Pantelic Emilija 1 0.5
+P2 2017/0715 Momcilov Marija 0
+P2 2017/0717 Palic Milan 0
+P2 2017/0719 Mijajlovic Veljko 0
+P2 2018/0001 Konovalov Luka 22 11
+P2 2018/0003 Ljuboja Aleksa 28 14
+P2 2018/0010 Licina Dušan 53 26.5
+P2 2018/0013 Madžarevic Aleksandar 27 13.5
+P2 2018/0021 Jovanovic Aleksa 56 28
+P2 2018/0022 Jovanovic Marko 59 29.5
+P2 2018/0025 Mitic Aleksa 31 15.5
+P2 2018/0026 Pavlovic Nikola 55 27.5
+P2 2018/0027 Markovic Uroš 11 5.5
+P2 2018/0029 Matavulj Stevan 40 20
+P2 2018/0032 Kanjevac Veljko 35 17.5
+P2 2018/0033 Matavulj Milan 4 2
+P2 2018/0036 Jovic Ivana 40 20
+Strana 9/18
+P2 2018/0036 Jovic Ivana 40 20
+P2 2018/0047 Jugovic Lazar 55 27.5
+P2 2018/0049 Kremic Bojana 25 12.5
+P2 2018/0051 Ohlopkov Ilja 34 17
+P2 2018/0052 Ohlopkov Kirill 20 10
+P2 2018/0054 Makevic Milica 49 24.5
+P2 2018/0062 Pavlovic Jovan 51 25.5
+P2 2018/0068 Krasic Luka 40 20
+P2 2018/0071 Ognjenovic Marija 20 10
+P2 2018/0083 Markovic Nikola 54 27
+P2 2018/0089 Nedeljkovic Luka 5 2.5
+P2 2018/0090 Mrda Nikola 24 12
+P2 2018/0093 Marinkovic Teodora 38 19
+P2 2018/0094 Neškovic Filip 44 22
+P2 2018/0098 Lukanovic Jovan 24 12
+P2 2018/0099 Marijan Matija 53 26.5
+P2 2018/0100 Neškovic Ðorde 51 25.5
+P2 2018/0101 Milovic Milica 22 11
+P2 2018/0105 Pajic Stefan 33 16.5
+P2 2018/0110 Krstic Milica 3 1.5
+P2 2018/0112 Kovacevic Anja 60 30
+P2 2018/0116 Nikacevic Adam 38 19
+P2 2018/0117 Jovanovic Vesna 21 10.5
+P2 2018/0120 Marinkovic Relja 49 24.5
+Strana 9/18
+P2 2018/0122 Pavlicevic Teodora 51 25.5
+P2 2018/0124 Kuncak Luka 56 28
+P2 2018/0130 Marinkovic Aleksandar 41 20.5
+P2 2018/0136 Pavlovic Branko 50 25
+P2 2018/0137 Juroševic Stefan 56 28
+P2 2018/0139 Milovanovic Pavle 8 4
+P2 2018/0142 Markovic Ljubica 46 23
+P2 2018/0143 Macic Dragana 48 24
+P2 2018/0148 Karajovic Rastko 29 14.5
+P2 2018/0155 Klaric Jovan 50 25
+P2 2018/0156 Karavezic Miloš 56 28
+P2 2018/0157 Jovanovic Nikola 33 16.5
+P2 2018/0158 Mihajlovic Dunja 45 22.5
+P2 2018/0161 Pantovic Ognjen 57 28.5
+P2 2018/0175 Mijailovic Ivana 21 10.5
+P2 2018/0177 Miloševic Mateja 34 17
+P2 2018/0180 Kojic Danilo 50 25
+P2 2018/0188 Krunic Jovan 55 27.5
+P2 2018/0191 Mijailovic Nikola 57 28.5
+P2 2018/0192 Kneževic Komnen 56 28
+P2 2018/0194 Pataric Ana 42 21
+P2 2018/0195 Miocinovic Rastko 18 9
+P2 2018/0197 Kaljevic Mina 41 20.5
+P2 2018/0201 Kuljanin Sara 42 21
+P2 2018/0210 Kovacevic Filip 8 4
+P2 2018/0216 Mitrovic Uroš 28 14
+P2 2018/0217 Nedeljkovic Vukašin 45 22.5
+Strana 10/18
+P2 2018/0217 Nedeljkovic Vukašin 45 22.5
+P2 2018/0223 Martinovski Sara 34 17
+P2 2018/0226 Ležaja Stevan 37 18.5
+P2 2018/0233 Klasanovic Danilo 55 27.5
+P2 2018/0235 Panic Jelena 22 11
+P2 2018/0236 Mitric Teodora 43 21.5
+P2 2018/0240 Martinic Marko 0
+P2 2018/0242 Lukovic Jovan 35 17.5
+P2 2018/0245 Nikolic Kristina 56 28
+P2 2018/0249 Joksovic Pavle 50 25
+P2 2018/0261 Macura Marko 45 22.5
+P2 2018/0264 Markovic Andela 54 27
+P2 2018/0265 Milicic Sofija 45 22.5
+P2 2018/0268 Obradovic Mihailo 11 5.5
+P2 2018/0275 Markovic Aleksandra 46 23
+P2 2018/0280 Ljubisavljevic Aleksa 53 26.5
+P2 2018/0286 Kastratovic Aleksandar 36 18
+P2 2018/0288 Mitrovic Nemanja 16 8
+P2 2018/0290 Krstic Teodora 21 10.5
+P2 2018/0292 Kovacevic Jelena 5 2.5
+P2 2018/0306 Nikolic Aleksa 52 26
+P2 2018/0309 Milincic Milica 48 24
+P2 2018/0312 Jokic Nikola 24 12
+P2 2018/0315 Milosavljevic Milica 34 17
+Strana 10/18
+P2 2018/0317 Kalafatovic Dragan 24 12
+P2 2018/0318 Lazovic Petar 36 18
+P2 2018/0319 Kaluderovic Ljubomir 43 21.5
+P2 2018/0326 Maksimovic Ana 0
+P2 2018/0330 Milinkovic Ivan 50 25
+P2 2018/0331 Jokanovic Jana 32 16
+P2 2018/0340 Niševic Maja 56 28
+P2 2018/0344 Makljenovic Aleksa 57 28.5
+P2 2018/0346 Obradovic Marko 41 20.5
+P2 2018/0348 Milinkovic Marko 0 0
+P2 2018/0349 Novovic Rastko 21 10.5
+P2 2018/0352 Obradovic Nadežda 39 19.5
+P2 2018/0361 Miljevic Nina 16 8
+P2 2018/0362 Laketa Nebojša 0
+P2 2018/0365 Maljevic Ivana 18 9
+P2 2018/0374 Nikolicic Olja 21 10.5
+P2 2018/0375 Pantovic Milica 35 17.5
+P2 2018/0377 Pavicevic Jovana 29 14.5
+P2 2018/0379 Pajevic Ksenija 17 8.5
+P2 2018/0380 Milenkovic Nikola 0
+P2 2018/0385 Jovicevic Stefan 5 2.5
+P2 2018/0386 Karišic Jovana 9 4.5
+P2 2018/0389 Milic Aleksa 0 0
+P2 2018/0390 Mihajlovic Antonije 38 19
+P2 2018/0393 Obradovic Vanja 35 17.5
+P2 2018/0395 Milovanovic Jelena 16 8
+P2 2018/0397 Loncarevic Željana 45 22.5
+Strana 11/18
+P2 2018/0397 Loncarevic Željana 45 22.5
+P2 2018/0399 Lukovic Emilija 15 7.5
+P2 2018/0401 Klasnic Ana 41 20.5
+P2 2018/0411 Krstic Nemanja 1 0.5
+P2 2018/0414 Kecman Leonida 19 9.5
+P2 2018/0419 Lukendic Sofija 31 15.5
+P2 2018/0422 Lazic Andelka 0
+P2 2018/0425 Matic Filip 35 17.5
+P2 2018/0431 Milenkovic Melanija 13 6.5
+P2 2018/0432 Mandic Nikola 0 0
+P2 2018/0437 Markovic Danijela 23 11.5
+P2 2018/0443 Miloševic Matija 28 14
+P2 2018/0445 Miloševic Miloš 14 7
+P2 2018/0451 Miletic Nikola 0 0
+P2 2018/0453 Kojcinovic Aleksandra 53 26.5
+P2 2018/0454 Paunovic Uroš 20 10
+P2 2018/0473 Kostic Aleksa 38 19
+P2 2018/0475 Lazarevic Nikola 0 0
+P2 2018/0483 Mirkov Marta 33 16.5
+P2 2018/0485 Mirkovic Miroslav 35 17.5
+P2 2018/0487 Lucic Željko 39 19.5
+P2 2018/0491 Pantelic Andrija 40 20
+P2 2018/0492 Mirkovic Sofija 42 21
+P2 2018/0497 Mišic Lazar 0
+Strana 11/18
+P2 2018/0513 Miladinovic Nastasija 35 17.5
+P2 2018/0514 Micic Miroljub 14 7
+P2 2018/0519 Neškovic Nikola 23 11.5
+P2 2018/0521 Jecmenica Radovan 0
+P2 2018/0522 Jovanovic Tijana 0
+P2 2018/0525 Macut Srdan 2 1
+P2 2018/0527 Lukic Milan 0
+P2 2018/0538 Kaluderovic Dušan 22 11
+P2 2018/0556 Maric Ðorde 0
+P2 2018/0557 Paunovic Stefana 3 1.5
+P2 2018/0564 Matic Mladen 0
+P2 2018/0567 Jošic Milica 9 4.5
+P2 2018/0569 Mitrovic Uroš 3 1.5
+P2 2018/0571 Lišanin Marta 1 0.5
+P2 2018/0573 Koreni Zvonko 0
+P2 2018/0576 Košanin Aleksa 6 3
+P2 2018/0604 Joksimovic Branka 14 7
+P2 2018/0606 Mijajlovic Jovan 0 0
+P2 2018/0608 Panov Danica 30 15
+P2 2018/0615 Nedeljkovic Nikola 0 0
+P2 2018/0616 Lazarevic Petar 8 4
+P2 2018/0617 Novakovic Aleksa 44 22
+P2 2018/0631 Milic Milorad 2 1
+P2 2018/0632 Pajic Konstantin 30 15
+P2 2018/0637 Maric Anastasija 0 0
+P2 2018/0638 Miladinovic Nikola 36 18
+P2 2018/0648 Lalic Nemanja 55 27.5
+Strana 12/18
+P2 2018/0648 Lalic Nemanja 55 27.5
+P2 2018/0652 Mitrovic Ana 35 17.5
+P2 2018/0654 Mijailovic Marko 6 3
+P2 2018/0655 Mitrovic Janko 17 8.5
+P2 2018/0656 Parezanovic Uroš 0
+P2 2018/0668 Mitrovic Predrag 32 16
+P2 2018/0670 Kolaric Nebojša 24 12
+P2 2018/0671 Krstic Uroš 13 6.5
+P2 2018/0680 Lucic Ilija 55 27.5
+P2 2018/0681 Milijic Ljubica 19 9.5
+P2 2018/0693 Jeremic Ðorde 3 1.5
+P2 2018/0695 Nojic Teodora 11 5.5
+P2 2018/0697 Papic Vukašin 0
+P2 2018/0702 Lukic David 18 9
+P2 2018/0704 Lazovic Marko 0 0
+P2 2018/0711 Milicevic Tijana 1 0.5
+P2 2018/0721 Matic Nikola 4 2
+P2 2018/0724 Markovic Antonio 0 0
+P3 2011/0069 Ristic Zora 0
+P3 2011/0469 Radovic Kristina 0
+P3 2011/0546 Rakic Miroslav 6 3
+P3 2013/0064 Šaronjic Stefan 0
+P3 2013/0236 Stevanovic Filip 8 4
+P3 2013/0594 Rakocevic Mladen 46 23
+Strana 12/18
+P3 2013/0670 Pešic Stefan 10 5
+P3 2014/0197 Pantelic Ana 26 13
+P3 2015/0077 Sajic Siniša 20 10
+P3 2015/0249 Šiljegovic Milan 10 5
+P3 2015/0511 Stojanovic Milica 41 20.5
+P3 2015/0569 Filipovic Stefan 22 11
+P3 2015/0597 Stevanovic Mirko 0
+P3 2016/0124 Stojkovic Marko 9 4.5
+P3 2016/0140 Tadic Ognjen 0
+P3 2016/0152 Pleskonjic Dejana 0
+P3 2016/0173 Petronijevic Darko 11 5.5
+P3 2016/0252 Spasojevic Mladen 0
+P3 2016/0272 Radivojevic Luka 47 23.5
+P3 2016/0336 Petrovic Dušan 5 2.5
+P3 2016/0453 Trbulin Ivan 52 26
+P3 2016/0459 Ciric Vojislav 0
+P3 2016/0481 Slijepcevic Katarina 33 16.5
+P3 2016/0508 Stankovic Ognjen 0 0
+P3 2016/0528 Stankovic Miloš 26 13
+P3 2016/0539 Paljevac Amina 2 1
+P3 2016/0545 Cosic Lazar 13 6.5
+P3 2016/0565 Popadic Natalija 0
+P3 2016/0596 Rizovic Saša 0
+P3 2016/0605 Ružic Ilija 0
+P3 2016/0616 Pakljanac Sava 0
+P3 2016/0619 Plejic Isidora 1 0.5
+P3 2017/0002 Savicic Ivana 0
+Strana 13/18
+P3 2017/0002 Savicic Ivana 0
+P3 2017/0003 Tomic Jovana 0
+P3 2017/0012 Stojanovic Marija 46 23
+P3 2017/0027 Tošic Nada 35 17.5
+P3 2017/0034 Seizovic Marko 28 14
+P3 2017/0069 Petrovic Pavle 30 15
+P3 2017/0153 Radovanovic Stefan 47 23.5
+P3 2017/0163 Stoiljkovic Dragica 33 16.5
+P3 2017/0190 Stanic Aleksandra 39 19.5
+P3 2017/0193 Papic Aleksa 12 6
+P3 2017/0201 Stankovic Stevan 24 12
+P3 2017/0225 Ristic Filip 56 28
+P3 2017/0230 Tadic Tijana 32 16
+P3 2017/0257 Stojisavljevic Luka 47 23.5
+P3 2017/0284 Curcic Predrag 45 22.5
+P3 2017/0285 Stanojlovic Željko 32 16
+P3 2017/0297 Stojanovic Dimitrije 37 18.5
+P3 2017/0304 Tomic Borimir 52 26
+P3 2017/0317 Ristoski Lazar 56 28
+P3 2017/0322 Stupar Davor 0
+P3 2017/0326 Petrovic Milica 4 2
+P3 2017/0336 Stojanovic Dejana 33 16.5
+P3 2017/0354 Popovic Mladen 56 28
+P3 2017/0363 Rancic Jakov 39 19.5
+Strana 13/18
+P3 2017/0366 Popovic Sofija 5 2.5
+P3 2017/0391 Stanisavljevic Gorana 46 23
+P3 2017/0400 Uroševic Nikola 31 15.5
+P3 2017/0422 Udovic Bogdan 35 17.5
+P3 2017/0441 Prodanovic Mladen 12 6
+P3 2017/0442 Tepavcevic Bogdan 33 16.5
+P3 2017/0449 Stišovic David 48 24
+P3 2017/0454 Stakic Andela 46 23
+P3 2017/0458 Terzic Mladen 29 14.5
+P3 2017/0460 Petrovic Bogdan 27 13.5
+P3 2017/0461 Spasic Milica 37 18.5
+P3 2017/0468 Stojcev Nataša 52 26
+P3 2017/0474 Prodanovic Nikola 28 14
+P3 2017/0485 Pantovic Milica 38 19
+P3 2017/0495 Tomic Danilo 21 10.5
+P3 2017/0512 Pejcic Marko 43 21.5
+P3 2017/0513 Filipovic Nikola 35 17.5
+P3 2017/0519 Radovanovic Jovana 51 25.5
+P3 2017/0522 Stojanovski Miloš 0 0
+P3 2017/0525 Šošic Jana 40 20
+P3 2017/0527 Pešic Nemanja 44 22
+P3 2017/0534 Pejcic Angelina 5 2.5
+P3 2017/0568 Tasic Dimitrije 12 6
+P3 2017/0579 Petrovic Milan 12 6
+P3 2017/0588 Sredojevic Slobodan 39 19.5
+P3 2017/0600 Stefanovic Dušan 23 11.5
+P3 2017/0609 Savic Dunja 1 0.5
+Strana 14/18
+P3 2017/0609 Savic Dunja 1 0.5
+P3 2017/0638 Sladojevic Lazar 36 18
+P3 2017/0642 Ciric Aleksandra 15 7.5
+P3 2017/0643 Petrovic Nemanja 4 2
+P3 2017/0651 Popratnjak Tea 0 0
+P3 2017/0668 Colic Miroslav 34 17
+P3 2017/0670 Stankovic Svetozar 21 10.5
+P3 2017/0679 Stojanovic Marina 32 16
+P3 2017/0686 Simic Milenko 25 12.5
+P3 2017/0710 Stancev Luka 32 16
+P3 2018/0014 Topalovic Ana 33 16.5
+P3 2018/0020 Ciric Luka 46 23
+P3 2018/0030 Cenakovic Nikola 38 19
+P3 2018/0040 Ristic Jelena 60 30
+P3 2018/0045 Stankovic Kristina 46 23
+P3 2018/0046 Simic Nikola 56 28
+P3 2018/0048 Plavšic Mihailo 52 26
+P3 2018/0056 Pirgic Jovan 29 14.5
+P3 2018/0059 Sarjanovic Andela 26 13
+P3 2018/0060 Ceranic Balša 54 27
+P3 2018/0064 Simovic Luka 50 25
+P3 2018/0066 Stepanovic Stefan 58 29
+P3 2018/0067 Šalovic Dušan 60 30
+P3 2018/0070 Cosovic Bojana 44 22
+Strana 14/18
+P3 2018/0073 Stajic Uroš 18 9
+P3 2018/0077 Terzin Bogoljub 58 29
+P3 2018/0079 Stamenic Petar 1 0.5
+P3 2018/0082 Ristic Marko 58 29
+P3 2018/0091 Savic Julija 25 12.5
+P3 2018/0095 Ratkovic Marija 42 21
+P3 2018/0109 Ristivojevic Lenka 36 18
+P3 2018/0114 Cvetic Dunja 41 20.5
+P3 2018/0131 Peškir Aleksa 57 28.5
+P3 2018/0134 Topalovic Natalija 53 26.5
+P3 2018/0138 Cvetkovic Isidora 44 22
+P3 2018/0144 Stefanovic Milomir 29 14.5
+P3 2018/0146 Savic Ilija 47 23.5
+P3 2018/0150 Stanojevic Novak 56 28
+P3 2018/0151 Sudžum Lazar 43 21.5
+P3 2018/0152 Cvetkovic Predrag 43 21.5
+P3 2018/0160 Cvetanovic Aleksa 56 28
+P3 2018/0163 Firez Andrija 56 28
+P3 2018/0168 Petrovic Stepa 25 12.5
+P3 2018/0170 Tirnanic Mihajlo 30 15
+P3 2018/0172 Radojkovic Sara 33 16.5
+P3 2018/0176 Cupac Milan 0
+P3 2018/0183 Stankovic Katarina 42 21
+P3 2018/0184 Radetic Marija 24 12
+P3 2018/0185 Filipovic Mateja 33 16.5
+P3 2018/0187 Cosic Ivana 31 15.5
+P3 2018/0189 Curguz Marijana 31 15.5
+Strana 15/18
+P3 2018/0189 Curguz Marijana 31 15.5
+P3 2018/0190 Stevanoski Igor 39 19.5
+P3 2018/0196 Stamenkovic Ðorde 20 10
+P3 2018/0198 Ralevic Julija 24 12
+P3 2018/0200 Prtenjak Nikolina 40 20
+P3 2018/0204 Petrovic Milica 37 18.5
+P3 2018/0207 Radic Luka 56 28
+P3 2018/0209 Pušica Mihailo 39 19.5
+P3 2018/0213 Utvic Miloš 28 14
+P3 2018/0214 Saric Žarko 26 13
+P3 2018/0215 Ceranic Ana-Marija 55 27.5
+P3 2018/0222 Petrovic Iva 0
+P3 2018/0224 Simovic Milan 55 27.5
+P3 2018/0227 Šimpraga Anja 49 24.5
+P3 2018/0228 Stojanovic Miloš 53 26.5
+P3 2018/0229 Stanojlovic Filip 29 14.5
+P3 2018/0230 Radovic Aleksandra 28 14
+P3 2018/0232 Petrovic Ana 34 17
+P3 2018/0234 Hadži-Ristic Marko 21 10.5
+P3 2018/0237 Ralovic Dimitrije 20 10
+P3 2018/0243 Tešic Ivan 1 0.5
+P3 2018/0246 Sretovic Aleksa 38 19
+P3 2018/0274 Tomic Nevena 28 14
+P3 2018/0284 Savic Katarina 48 24
+Strana 15/18
+P3 2018/0289 Cirkovic Aleksa 0
+P3 2018/0296 Šponja Lazar 36 18
+P3 2018/0305 Popovic Ðorde 40 20
+P3 2018/0307 Cancar Igor 36 18
+P3 2018/0308 Radovic Jovana 36 18
+P3 2018/0316 Popovic Andrea 12 6
+P3 2018/0320 Rajovic Jelena 32 16
+P3 2018/0321 Starcevic Filip 55 27.5
+P3 2018/0322 Pecic Marija 36 18
+P3 2018/0323 Cvetkovic Aleksandar 48 24
+P3 2018/0336 Tošic Nikola 0
+P3 2018/0339 Simic Pavle 0 0
+P3 2018/0343 Stankovic Milan 35 17.5
+P3 2018/0347 Rakita Nikola 8 4
+P3 2018/0351 Petrovic Višnja 41 20.5
+P3 2018/0353 Stanišic Vladimir 33 16.5
+P3 2018/0355 Radeka Igor 31 15.5
+P3 2018/0356 Radosavljevic Ana 37 18.5
+P3 2018/0357 Comic Nada 14 7
+P3 2018/0368 Tomovic Aleksa 24 12
+P3 2018/0370 Stanimirovic Dimitrije 48 24
+P3 2018/0373 Špica Kosta 21 10.5
+P3 2018/0378 Simic Relja 15 7.5
+P3 2018/0382 Cvetanovic Nikola 56 28
+P3 2018/0392 Rastovic Ðorde 7 3.5
+P3 2018/0398 Šmigic Ivan 9 4.5
+P3 2018/0400 Tonic Danilo 60 30
+Strana 16/18
+P3 2018/0400 Tonic Danilo 60 30
+P3 2018/0403 Stojkovic Mihajlo 17 8.5
+P3 2018/0406 Hadžiefendic Dijana 46 23
+P3 2018/0408 Tanaskovic Aleksa 36 18
+P3 2018/0416 Savic Luka 0
+P3 2018/0427 Filipovic Bratislav 32 16
+P3 2018/0428 Stanojkovic Marko 4 2
+P3 2018/0433 Tanaskovic Nikola 22 11
+P3 2018/0435 Uroševic Selena 14 7
+P3 2018/0436 Radivojevic Mihailo 7 3.5
+P3 2018/0446 Svorcan Mihailo 40 20
+P3 2018/0457 Ciric Isidora 21 10.5
+P3 2018/0458 Stevanovic Igor 35 17.5
+P3 2018/0462 Tadic Nemanja 4 2
+P3 2018/0463 Tasic Tamara 6 3
+P3 2018/0464 Radovanovic Smiljana 27 13.5
+P3 2018/0465 Rašic Vasilija 40 20
+P3 2018/0469 Stojkovic Mihailo 32 16
+P3 2018/0470 Ratkovic Aleksa 1 0.5
+P3 2018/0474 Radomirovic Vladimir 19 9.5
+P3 2018/0476 Tomic Aleksandra 0
+P3 2018/0479 Rabrenovic Marko 12 6
+P3 2018/0480 Stanišic Danilo 33 16.5
+P3 2018/0482 Ciric Tijana 16 8
+Strana 16/18
+P3 2018/0486 Stojic Vladan 12 6
+P3 2018/0490 Savic Dušan 21 10.5
+P3 2018/0493 Simovic Lenka 44 22
+P3 2018/0494 Šaljic Amil 15 7.5
+P3 2018/0496 Cvijovic Tijana 18 9
+P3 2018/0499 Stakic Milica 37 18.5
+P3 2018/0500 Radovanovic Dušan 33 16.5
+P3 2018/0504 Rašic Uroš 0
+P3 2018/0505 Spasojevic Lazar 19 9.5
+P3 2018/0506 Stevanovic Nina 36 18
+P3 2018/0508 Cvetkovic Aleksa 7 3.5
+P3 2018/0509 Puric Milan 37 18.5
+P3 2018/0512 Sojcic Daniel 1 0.5
+P3 2018/0515 Rajic Milica 37 18.5
+P3 2018/0516 Tripkovic Ðorde 24 12
+P3 2018/0517 Todorovic Stefan 19 9.5
+P3 2018/0518 Curcic Boško 28 14
+P3 2018/0524 Popovic Stevan 16 8
+P3 2018/0526 Trajkovic Sandra 0 0
+P3 2018/0528 Cvorovic Nebojša 21 10.5
+P3 2018/0529 Stojanovic Uroš 41 20.5
+P3 2018/0530 Reljic Maja 13 6.5
+P3 2018/0534 Cvetkovic Ljubica 17 8.5
+P3 2018/0535 Smiljanic Nikola 0
+P3 2018/0537 Pecenicic Nikola 3 1.5
+P3 2018/0540 Stamenkovic Strahinja 8 4
+P3 2018/0543 Rajilic Filip 4 2
+Strana 17/18
+P3 2018/0543 Rajilic Filip 4 2
+P3 2018/0552 Simovic Andela 16 8
+P3 2018/0560 Stefanov Aleksandar 15 7.5
+P3 2018/0570 Tadic Milica 30 15
+P3 2018/0574 Petrovic Nenad 20 10
+P3 2018/0578 Cakarevic Jelena 33 16.5
+P3 2018/0580 Planic Aleksa 0 0
+P3 2018/0582 Radojicic Tijana 29 14.5
+P3 2018/0586 Radovanovic Nemanja 0
+P3 2018/0589 Radivojevic Marija 0 0
+P3 2018/0591 Stepanovic Nikola 0
+P3 2018/0592 Stojišic Aleksandar 2 1
+P3 2018/0614 Savic Ratko 18 9
+P3 2018/0619 Šotra Marko 26 13
+P3 2018/0620 Timotijevic Nemanja 0
+P3 2018/0621 Cosic Aleksandar 27 13.5
+P3 2018/0622 Radovanovic Nevena 17 8.5
+P3 2018/0625 Smiljkovic Luka 4 2
+P3 2018/0633 Recevic Stefan 44 22
+P3 2018/0634 Todorovic Ðorde 7 3.5
+P3 2018/0636 Popovic David 18 9
+P3 2018/0643 Stojkovic Gregor 7 3.5
+P3 2018/0644 Perunicic Dragan 5 2.5
+P3 2018/0645 Stojkovic Damjan 28 14
+Strana 17/18
+P3 2018/0646 Strikovic Veselin 39 19.5
+P3 2018/0653 Petrovic Milica 14 7
+P3 2018/0657 Pleskonjic Rada 24 12
+P3 2018/0662 Stojkovic Selena 6 3
+P3 2018/0663 Filipovic Uroš 29 14.5
+P3 2018/0665 Cosovic Senija 9 4.5
+P3 2018/0673 Stankovic Vlastimir 20 10
+P3 2018/0678 Filipovic Milica 43 21.5
+P3 2018/0679 Rakic Isidora 4 2
+P3 2018/0683 Šavija Darko 0 0
+P3 2018/0691 Saric Jovan 10 5
+P3 2018/0698 Peric Lazar 1 0.5
+P3 2018/0701 Stancic Nikola 4 2
+P3 2018/0717 Turanjanin Marija 21 10.5
+P3 2018/0720 Tupanjanin Marija 5 2.5
+P3 2018/0723 Pribicevic Miloš 0 0
+P3 2018/0726 Ševic David 52 26
+Strana 18/18
