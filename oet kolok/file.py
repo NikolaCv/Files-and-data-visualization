@@ -1,6 +1,6 @@
 from operator import itemgetter
 import matplotlib.pyplot as plt
-import numpy as np
+
 
 class student():
 	def __init__(self, ime, prezime, ind, poeni, izasao):
@@ -10,7 +10,7 @@ class student():
 		self.poeni = poeni
 		self.izasao = izasao
 
-f = open("C:\\Users\\Nikola\\Desktop\\python\\OET.txt","r")
+f = open("OET.txt","r")
 p = open("sort.txt","w")
 stat = open("stats.txt","w")
 
@@ -60,6 +60,7 @@ def stats(l,max,min,period):
 	i = 0
 	a = max
 	j = 0
+	hist = []
 	indL = 0
 	indD = 0
 	s = []
@@ -67,6 +68,7 @@ def stats(l,max,min,period):
 	while md > min:
 		while l[i][3] > ml:
 			i += 1
+			hist.append(l[i][3])
 		indD = i
 
 		for k in range(indL,indD):
@@ -83,9 +85,50 @@ def stats(l,max,min,period):
 		count += 1
 		i += 1
 	s.append(count)
-	return s
+	return s, hist
 
+def graph(s,hist,period):
+	x = []
+	y = []
+	j = 0
+	while j <= 30/period:
+		x.append( j * period )
+		y.append(s[int(30/period)-j])
+		j += 1
+	print(s)
+	i = 0
+	tx = ty = []
+	while i <= 30:
+		tx.append(i)
+		i += period
+	ty = [x * 10 for x in range(1,11)]
 
+	m = int (30 / period)
+
+	t = [x * period for x in range(0,m+2)]
+
+#	plt.bar(x, y)
+	plt.figure(1, figsize=(15, 5))
+#	plt.plot(x, y, 'ro', x, y, 'k', linewidth = 2.0)
+	plt.subplot(121)
+	plt.bar(x, y, width = - (period - 0.5), align = 'edge')
+	plt.ylabel('Broj Studenata')
+	plt.xlabel('Broj Bodova')
+	plt.grid(True)
+	plt.xticks(ticks = tx, labels=None)
+	plt.yticks(ticks = ty, labels=None)
+	plt.axis([-5, 35, 0, max(s)+5])
+#	plt.show()
+
+	plt.subplot(122)
+	plt.hist(hist, t, width = period-0.5, align = 'mid', color = 'r')
+	plt.ylabel('Broj Studenata')
+	plt.xlabel('Broj Bodova')
+	plt.grid(True)
+	plt.xticks(ticks = tx, labels=None)
+	plt.yticks(ticks = ty, labels=None)
+	plt.axis([-5, 35, 0, max(s)+5])
+	plt.show()
 
 def main():
 	l = []
@@ -117,9 +160,9 @@ def main():
 
 	max = 30.0
 	min = 0.0
-	period = 0.5
+	period = 2.5
 
-	s = stats(l,max,min,period)
+	s, hist = stats(l,max,min,period)
 	i = 0
 	c = ''
 	while i < len(s)-1:
@@ -136,29 +179,7 @@ def main():
 	print(len(l))
 	print(sum(s))
 
-	x = []
-	y = []
-	j = 0
-	while j <= 60:
-		x.append( j * 0.5 )
-		y.append(s[60-j])
-		j += 1
-
-
-	i = 0
-	tx = ty = []
-	while i <= 30:
-		tx.append(i)
-		i += period*2
-	ty = [x * 5 for x in ty]
-	plt.plot(x, y, 'ro', x, y, 'k')
-	plt.ylabel('Broj studenata')
-	plt.xlabel('Broj poena')
-	plt.grid(True)
-	plt.xticks(ticks = tx, labels=None)
-	plt.yticks(ticks = ty, labels=None)
-	plt.axis([-5, 35, 0, 35])
-	plt.show()
+	graph(s,hist,period)
 
 	f.close()
 	p.close()
