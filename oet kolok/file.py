@@ -83,6 +83,7 @@ def stats(l,max,min,period):
 		ml -= period
 	while i < len(l):
 		count += 1
+		hist.append(l[i][3])
 		i += 1
 	s.append(count)
 	return s, hist
@@ -95,7 +96,7 @@ def graph(s,hist,period):
 		x.append( j * period )
 		y.append(s[int(30/period)-j])
 		j += 1
-	print(s)
+#	print(s)
 	i = 0
 	tx = ty = []
 	while i <= 30:
@@ -105,29 +106,34 @@ def graph(s,hist,period):
 
 	m = int (30 / period)
 
-	t = [x * period for x in range(0,m+2)]
+	t = [-2.0]
+	for i in range(0,m+2):
+		t.append(i * period + 0.5)
 
+#	print(hist)
 #	plt.bar(x, y)
 	plt.figure(1, figsize=(15, 5))
 #	plt.plot(x, y, 'ro', x, y, 'k', linewidth = 2.0)
 	plt.subplot(121)
-	plt.bar(x, y, width = - (period - 0.5), align = 'edge')
+	plt.bar(x, y, width = - (period - 0.5), align = 'edge', label = 'bars')
 	plt.ylabel('Broj Studenata')
 	plt.xlabel('Broj Bodova')
 	plt.grid(True)
 	plt.xticks(ticks = tx, labels=None)
 	plt.yticks(ticks = ty, labels=None)
+	plt.legend()
 	plt.axis([-5, 35, 0, max(s)+5])
 #	plt.show()
 
 	plt.subplot(122)
-	plt.hist(hist, t, width = period-0.5, align = 'mid', color = 'r')
+	plt.hist(hist, t, width = period-0.5, align = 'mid', color = 'r', label = 'hist')
 	plt.ylabel('Broj Studenata')
 	plt.xlabel('Broj Bodova')
 	plt.grid(True)
 	plt.xticks(ticks = tx, labels=None)
 	plt.yticks(ticks = ty, labels=None)
 	plt.axis([-5, 35, 0, max(s)+5])
+	plt.legend()
 	plt.show()
 
 def main():
