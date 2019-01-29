@@ -4,6 +4,7 @@ import matplotlib.dates as mdates
 from matplotlib import style
 import datetime
 import time
+from matplotlib import ticker as mticker
 
 style.use("classic")
 #print(plt.style.available)
@@ -126,32 +127,37 @@ def graph(igrac):
 
 	dates, full_dates, suma, suman = uredi_datume(dates, full_dates, full_dates_n, b, bn)
 
-	ticks = list(set(suma+suman))
-
 	plt.figure(2,figsize=(15, 8))
 	ax1 = plt.subplot(121)
 	ax2 = plt.subplot(122,sharex=ax1)
 
-	ax1.bar(dates, suma, color='b',alpha=0.9, width = -0.8, align='edge')
+	bar1 = ax1.bar(dates, suma, color='b',alpha=0.9, width = -0.8, align='edge')
 	ax1.set_title("Suma",fontsize=20,pad=10)
-	ax1.set_ylabel('Broj Poena',rotation=0,fontsize=15,labelpad=25)
-	#ax1.set_xlabel('Datum',fontsize=15)
+	ax1.set_ylabel('Broj Poena',rotation=45,fontsize=15,labelpad=25)
 	ax1.grid(True)
-	ax1.yaxis.set_ticks(ticks)
 	ax1.axis([min(dates) - datetime.timedelta(days=1), max(dates) + datetime.timedelta(hours=4.8), 1.1*min(suman), 1.1*max(suma)])
 	ax1.tick_params(axis='y', which='major', pad=10)
-	ax1.bar(dates, suman, color='r',alpha=0.9, width = -0.8, align='edge')
+
+	bar2 = ax1.bar(dates, suman, color='r',alpha=0.9, width = -0.8, align='edge')
+	ax1.yaxis.set_major_locator(mticker.MaxNLocator(nbins=1))
+
+	for rect in bar1:
+		height = rect.get_height()
+		ax1.text(rect.get_x() + rect.get_width()/2.0, height, '%d' % height, ha='center', va='bottom')
+
+	for rect in bar2:
+		height = rect.get_height()
+		if height != 0:
+			ax1.text(rect.get_x() + rect.get_width()/2.0, height+min(suman)*0.018, '%d' % height, ha='center', va='top')
 
 	ax2.plot_date(full_dates, b, '.')
 	ax2.set_title("Po borbi",fontsize=20,pad=10)
-	ax2.set_ylabel('Broj Poena',rotation=0,fontsize=15,labelpad=25)
-	#ax2.set_xlabel('Datum',fontsize=15)
+	ax2.set_ylabel('Broj Poena',rotation=45,fontsize=15,labelpad=25)
 	ax2.grid(True)
 	ax2.set_ylim([0,1.1*max(b)])
 	ax2.tick_params(axis='y', which='major', pad=10)
-	#ax2.fill_between(converted_dates_f,b,0,alpha=0.5)
+	ax2.yaxis.set_major_locator(mticker.MaxNLocator(nbins=25))
 
-	#plt.subplots_adjust(wspace=0.5, hspace=0.2)
 	plt.gcf().autofmt_xdate(rotation=45)
 	plt.suptitle(igrac, fontsize=25)
 	mng = plt.get_current_fig_manager()
