@@ -1,0 +1,412 @@
+
+ 
+GAME
+ 
+RATINGS
+ 
+CLANS
+ 
+TOURNAMENTS
+ 
+MEDIA
+ 
+COMMUNITY
+DOWNLOAD GAME
+notification __Magmaa arrowGamesarrowServicesarrow
+Premium Shop Player Support
+HISTORY
+FAME POINTS
+EVENT
+DATE
+- 1,000
+Spent on personal bonuses
+
+28/01/2019 23:55
++ 1,009
+Participating in battle
+
+28/01/2019 23:54
+- 250
+Spent on personal bonuses
+
+28/01/2019 23:24
++ 752
+Participating in battle
+
+28/01/2019 23:22
+- 50
+Spent on personal bonuses
+
+22/01/2019 23:42
+- 10
+Spent on personal bonuses
+
+22/01/2019 23:42
++ 93
+Participating in battle
+
+21/01/2019 20:34
+ 
+HOME  COMMUNITY  PLAYERS
+__Magmaa  ADD TO COMPARISON
+ Purchase Premium   3,959   2,136,319   5,213   301,610  Account created: 07/06/2013
+CLAN
+[GX] Next Level Of Gaming
+Position: Executive Officer  Days in clan: 573
+ FORUM PROFILE
+ ACCOUNT MANAGEMENT
+ SEARCH PLAYERS
+STATISTICS
+RANDOM BATTLES
+10,204
+PERSONAL RATING
+55.95%
+VICTORIES
+31,520
+BATTLES
+73.28%
+HITS
+1,866
+AVERAGE DAMAGE
+726
+AVERAGE EXPERIENCE PER BATTLE
+2,727
+MOST EXPERIENCE IN A BATTLE
+10
+MOST VEHICLES DESTROYED IN A BATTLE
+75/178
+MASTERY BADGES: ACE TANKER
+SOLDIERS OF FORTUNE
+SOLDIERS OF FORTUNE
+ 
+—
+RATING POSITION
+
+544
+FAME POINTS TOTAL
+
+544
+FAME POINTS OVER THE CURRENT HOUR
+
+ Battles fought to enter the rating: 3 / 5, personal Fame Points earned: 0 / 0
+
+ VIEW MAP
+ ALLEY OF FAME
+ HISTORY
+ EVENT RULES
+ACHIEVEMENTS
+95 OUT OF 133 + SPECIAL 83
+1 
+1 
+337 
+2,154 
+1,572 
+ 
+252 
+2 
+33
+SHOW ALL ACHIEVEMENTS
+BATTLES FOUGHT IN VEHICLES
+RANDOM BATTLES
+157I
+297II
+430III
+729IV
+3,554V
+2,857VI
+1,593VII
+4,883VIII
+5,225IX
+11,795X
+BY TIER
+
+ 
+4,503
+9,425
+3,485
+2,119
+10,767
+1,178
+25
+1
+0
+0
+17
+BY NATION
+
+ 
+3,405
+12,094
+11,884
+3,166
+971
+BY TYPE
+
+Overall Score
+Battles
+31,520
+Victories
+17,634 (55.95%)
+Defeats
+13,596 (43.13%)
+Battles survived
+8,842 (28.05%)
+Damage ratio
+1.49
+Destruction ratio
+1.67
+Armor-use efficiency
+0.46
+Base capture points
+18,041
+Base defense points
+20,238
+Average Score per Battle
+Experience
+726
+Damage caused
+1,866
+Damage received
+1,255
+Number of stuns
+0
+Damage caused with your assistance
+543
+Damage to enemy vehicles stunned by you
+0
+Enemy vehicles spotted
+1.72
+Enemy vehicles destroyed
+1.2
+Record Score
+Most vehicles destroyed in a battle
+10
+Most experience in a battle
+2,727
+Most damage in a battle
+10,006
+Mastery Badges
+Ace Tanker
+75
+I Class
+40
+II Class
+38
+III Class
+19
+
+RATING IN CLAN [GX]
+HALL OF FAME
+Data as of 28/01/2019 04:45
+WORLD OF TANKS RATING
+10,803
+BurakaXoxo
+27 9,045
+_Pelee_
+28 9,042
+__Magmaa
+29 9,035
+HitmanCro_
+VICTORIES
+66.63%
+SHIFTER___
+33 59.86%
+UrosR_
+34 59.74%
+__Magmaa
+35 59.74%
+D_e_v_i_l_s
+AVERAGE EXPERIENCE PER BATTLE
+1,110
+SHIFTER___
+37 905
+_Pelee_
+38 904
+__Magmaa
+39 901
+CROKINGMATE
+AVERAGE DAMAGE PER BATTLE
+2,995
+BurakaXoxo
+12 2,505
+narkomanic
+13 2,504
+__Magmaa
+14 2,503
+comi03
+AVERAGE NUMBER OF VEHICLES DESTROYED PER BATTLE
+1.85
+SHIFTER___
+30 1.44
+Buzuk_
+31 1.43
+__Magmaa
+32 1.43
+comi03
+AVERAGE DAMAGE BLOCKED PER BATTLE
+876
+foxinthebox_2
+15 591
+Fukljo
+16 588
+__Magmaa
+17 577
+fille8
+AVERAGE DAMAGE ASSISTED PER BATTLE
+868
+nikod
+6 723
+deathc0derz
+7 707
+__Magmaa
+8 705
+Alcohero
+ALL VEHICLES RANDOM BATTLES
+The table shows all vehicles the player has fought at least one battle in.
+
+ NATION    TYPE   TIER    OTHER  
+PARAMETERS  7/12  FOUND: 178  
+I-X
+VEHICLE NAME
+TB
+W/B
+MB
+MG
+D/B
+E/B
+F/D
+X
+
+Bat.-Châtillon 25 t
+2,911
+59.77
+%
+
+2,998
+952
+2.50
+V
+
+Pz.Kpfw. T 25
+1,778
+57.99
+%
+
+677
+594
+1.72
+X
+
+Object 140
+1,492
+57.44
+%
+
+2,638
+868
+1.89
+X
+
+AMX 50 B
+1,340
+54.33
+%
+
+2,892
+814
+2.13
+X
+
+Object 907
+1,302
+66.21
+%
+
+3,737
+1,176
+3.33
+X
+
+113
+867
+65.17
+%
+
+3,668
+1,116
+2.90
+IX
+
+AMX 13 90
+854
+55.74
+%
+
+1,138
+671
+1.22
+X
+
+T-62A
+824
+54.73
+%
+
+2,509
+684
+1.73
+VIII
+
+IS-3
+777
+60.23
+%
+
+1,680
+745
+1.62
+X
+
+T110E5
+774
+63.44
+%
+
+3,002
+922
+2.15
+MORE
+Up
+JOIN THE COMMUNITY
+
+More than 110,000,000 players
+
+ 
+JOIN US ON FACEBOOK
+
+2,039,644 in the community
+
+ 
+FOLLOW US ON TWITTER
+
+42,550 subscribers
+
+ 
+WATCH US ON YOUTUBE
+
+302,610 subscribers
+
+wargaming.net
+PLAYER SUPPORT
+PARTNERS
+EULA
+PRIVACY POLICY
+TERMS OF SERVICE
+CAREERS
+EUROPE (ENGLISH)
+
+
+
+
+ 
+© 2009–2019 Wargaming.net All rights reserved. Powered by BigWorld Technology™ ©

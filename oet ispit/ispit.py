@@ -9,10 +9,6 @@ class student():
 		self.ind = ind
 		self.prolaz = prolaz
 
-f = open("ispit.txt","r")
-p = open("ispitsort.txt","w")
-stat = open("ispitstats.txt","w")
-
 def obrada(str):
 	i = 0
 	s = student('', '', '', 0)
@@ -86,6 +82,10 @@ def main():
 	l = []
 	s = student('', '', '', 0)
 
+	f = open("ispit.txt","r")
+	p = open("ispitsort.txt","w")
+	stat = open("ispitstats.txt","w")
+	
 	i = 0
 	while True:
 		st = f.readline()
