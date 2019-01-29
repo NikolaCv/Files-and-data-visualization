@@ -128,6 +128,7 @@ def graph(igrac):
 	dates, full_dates, suma, suman = uredi_datume(dates, full_dates, full_dates_n, b, bn)
 
 	plt.figure(2,figsize=(15, 8))
+	plt.subplots_adjust(left=0.09, bottom=0.17, right=0.94, top=0.88)
 	ax1 = plt.subplot(121)
 	ax2 = plt.subplot(122,sharex=ax1)
 
