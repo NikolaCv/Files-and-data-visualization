@@ -18,6 +18,54 @@ HISTORY
 FAME POINTS
 EVENT
 DATE
++ 281
+Participating in battle
+
+29/01/2019 22:51
++ 1,740
+Participating in battle
+
+29/01/2019 22:21
++ 336
+Participating in battle
+
+29/01/2019 22:06
++ 929
+Participating in battle
+
+29/01/2019 21:50
++ 1,839
+Participating in battle
+
+29/01/2019 21:20
++ 1,923
+Participating in battle
+
+29/01/2019 21:11
++ 300
+Participating in battle
+
+29/01/2019 20:51
++ 1,340
+Participating in battle
+
+29/01/2019 20:35
++ 302
+Participating in battle
+
+29/01/2019 20:27
++ 1,353
+Participating in battle
+
+29/01/2019 20:04
++ 1,822
+Participating in battle
+
+29/01/2019 19:50
++ 163
+Participating in battle
+
+29/01/2019 19:35
 + 1,598
 Participating in battle
 
@@ -261,10 +309,10 @@ Participating in battle
  
 HOME  COMMUNITY  PLAYERS
 Alcohero  ADD TO COMPARISON
- 7 d   13,920   6,818,955   20,319   129,838  Account created: 27/03/2012
+ 6 d   13,920   7,019,239   20,271   130,594  Account created: 27/03/2012
 CLAN
 [GX] Next Level Of Gaming
-Position: Combat Officer  Days in clan: 428
+Position: Combat Officer  Days in clan: 429
  FORUM PROFILE
  ACCOUNT MANAGEMENT
  SEARCH PLAYERS
@@ -290,14 +338,14 @@ MOST VEHICLES DESTROYED IN A BATTLE
 MASTERY BADGES: ACE TANKER
 SOLDIERS OF FORTUNE
 SOLDIERS OF FORTUNE
-Data as of 28/01/2019 22:01
-407
+Data as of 29/01/2019 21:02
+333
 RATING POSITION
 
-46,473
+58,333
 FAME POINTS TOTAL
 
-1,889
+2,357
 FAME POINTS OVER THE CURRENT HOUR
 
  VIEW MAP
@@ -407,13 +455,13 @@ III Class
 
 RATING IN CLAN [GX]
 HALL OF FAME
-Data as of 28/01/2019 04:45
+Data as of 29/01/2019 04:43
 WORLD OF TANKS RATING
 10,803
 BurakaXoxo
 10,764
 Alcohero
-10,493
+10,495
 nikod
 4 10,461
 SHIFTER___
@@ -438,7 +486,7 @@ _CATA
 AVERAGE DAMAGE PER BATTLE
 2,995
 BurakaXoxo
-2,914
+2,915
 nikod
 4 2,893
 Alcohero
@@ -454,13 +502,13 @@ Alcohero
 7 1.62
 Val_vandal
 AVERAGE DAMAGE BLOCKED PER BATTLE
-876
+877
 foxinthebox_2
 749
 KZ_Joker
 4 716
 Alcohero
-5 697
+5 696
 _Ckoba
 AVERAGE DAMAGE ASSISTED PER BATTLE
 868
@@ -594,17 +642,17 @@ More than 110,000,000 players
  
 JOIN US ON FACEBOOK
 
-2,039,644 in the community
+2,039,645 in the community
 
  
 FOLLOW US ON TWITTER
 
-42,550 subscribers
+42,540 subscribers
 
  
 WATCH US ON YOUTUBE
 
-302,610 subscribers
+302,720 subscribers
 
 wargaming.net
 PLAYER SUPPORT
