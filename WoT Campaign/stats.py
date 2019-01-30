@@ -153,7 +153,7 @@ def graph(igrac):
 
 	ax1.bar(dates,raz,color='b',alpha=0.9,width = -0.8, align='edge', label='Fame Points: %d' %(sum(suma)+sum(suman)))
 
-	ax1.legend()
+	ax1.legend(loc=0)
 
 	for rect in bar1:
 		height = rect.get_height()
@@ -171,7 +171,7 @@ def graph(igrac):
 	ax2.set_ylim([0,1.1*max(b)])
 	ax2.tick_params(axis='y', which='major', pad=10)
 	ax2.yaxis.set_major_locator(mticker.MaxNLocator(nbins=25))
-	ax2.legend()
+	ax2.legend(loc=0)
 
 	plt.gcf().autofmt_xdate(rotation=45)
 	plt.suptitle(igrac, fontsize=25)
