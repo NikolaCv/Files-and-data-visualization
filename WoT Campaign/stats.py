@@ -164,7 +164,7 @@ def graph(igrac):
 		if height != 0:
 			ax1.text(rect.get_x() + rect.get_width()/2.0, height+min(suman)*0.018, '%d' % height, ha='center', va='top',clip_on=True)
 
-	ax2.plot_date(full_dates, b, '.',label='Bitke')
+	ax2.plot_date(full_dates, b, '.',label='Bitke: %d' %len(b))
 	ax2.set_title("Po borbi",fontsize=20,pad=10)
 	ax2.set_ylabel('Broj Poena',rotation=45,fontsize=15,labelpad=25)
 	ax2.grid(True)
