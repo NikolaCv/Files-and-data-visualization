@@ -132,32 +132,46 @@ def graph(igrac):
 	ax1 = plt.subplot(121)
 	ax2 = plt.subplot(122,sharex=ax1)
 
-	bar1 = ax1.bar(dates, suma, color='b',alpha=0.9, width = -0.8, align='edge')
+	bar1 = ax1.bar(dates, suma, color='g',alpha=0.9, width = -0.8, align='edge',label='Zaradjeno: %d' %sum(suma))
 	ax1.set_title("Suma",fontsize=20,pad=10)
 	ax1.set_ylabel('Broj Poena',rotation=45,fontsize=15,labelpad=25)
 	ax1.grid(True)
 	ax1.axis([min(dates) - datetime.timedelta(days=1), max(dates) + datetime.timedelta(hours=4.8), 1.1*min(suman), 1.1*max(suma)])
 	ax1.tick_params(axis='y', which='major', pad=10)
 
-	bar2 = ax1.bar(dates, suman, color='r',alpha=0.9, width = -0.8, align='edge')
+	bar2 = ax1.bar(dates, suman, color='r',alpha=0.9, width = -0.8, align='edge',label='Ulozeno: %d' %-sum(suman))
 	ax1.yaxis.set_major_locator(mticker.MaxNLocator(nbins=1))
+
+	raz = []
+	i = 0
+	while i < len(suma):
+		if suma[i]+suman[i] > 0:
+			raz.append(suma[i]+suman[i])
+		else:
+			raz.append(0)
+		i += 1
+
+	ax1.bar(dates,raz,color='b',alpha=0.9,width = -0.8, align='edge', label='Fame Points: %d' %(sum(suma)+sum(suman)))
+
+	ax1.legend()
 
 	for rect in bar1:
 		height = rect.get_height()
-		ax1.text(rect.get_x() + rect.get_width()/2.0, height, '%d' % height, ha='center', va='bottom')
+		ax1.text(rect.get_x() + rect.get_width()/2.0, height, '%d' % height, ha='center', va='bottom',clip_on=True)
 
 	for rect in bar2:
 		height = rect.get_height()
 		if height != 0:
-			ax1.text(rect.get_x() + rect.get_width()/2.0, height+min(suman)*0.018, '%d' % height, ha='center', va='top')
+			ax1.text(rect.get_x() + rect.get_width()/2.0, height+min(suman)*0.018, '%d' % height, ha='center', va='top',clip_on=True)
 
-	ax2.plot_date(full_dates, b, '.')
+	ax2.plot_date(full_dates, b, '.',label='Bitke')
 	ax2.set_title("Po borbi",fontsize=20,pad=10)
 	ax2.set_ylabel('Broj Poena',rotation=45,fontsize=15,labelpad=25)
 	ax2.grid(True)
 	ax2.set_ylim([0,1.1*max(b)])
 	ax2.tick_params(axis='y', which='major', pad=10)
 	ax2.yaxis.set_major_locator(mticker.MaxNLocator(nbins=25))
+	ax2.legend()
 
 	plt.gcf().autofmt_xdate(rotation=45)
 	plt.suptitle(igrac, fontsize=25)
