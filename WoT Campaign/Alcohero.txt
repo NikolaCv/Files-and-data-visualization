@@ -18,6 +18,10 @@ HISTORY
 FAME POINTS
 EVENT
 DATE
++ 213
+Participating in battle
+
+31/01/2019 00:04
 + 1,520
 Participating in battle
 
@@ -361,7 +365,7 @@ Participating in battle
  
 HOME  COMMUNITY  PLAYERS
 Alcohero  ADD TO COMPARISON
- 5 d   13,920   7,019,239   20,271   131,687  Account created: 27/03/2012
+ 5 d   13,920   7,500,103   20,259   131,696  Account created: 27/03/2012
 CLAN
 [GX] Next Level Of Gaming
 Position: Combat Officer  Days in clan: 430
@@ -390,14 +394,14 @@ MOST VEHICLES DESTROYED IN A BATTLE
 MASTERY BADGES: ACE TANKER
 SOLDIERS OF FORTUNE
 SOLDIERS OF FORTUNE
-Data as of 30/01/2019 21:02
-295
+Data as of 30/01/2019 23:01
+274
 RATING POSITION
 
-71,402
+76,275
 FAME POINTS TOTAL
 
-4,873
+213
 FAME POINTS OVER THE CURRENT HOUR
 
  VIEW MAP

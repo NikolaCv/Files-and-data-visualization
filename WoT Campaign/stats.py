@@ -9,7 +9,7 @@ from matplotlib import ticker as mticker
 style.use("classic")
 #print(plt.style.available)
 
-def pretvori_st_u_broj(st):
+def pretvori_st_u_broj(st):							#pretvaranje ucitanog stringa poena u int zbog ,
 	i = 2
 	b = 0
 
@@ -19,13 +19,13 @@ def pretvori_st_u_broj(st):
 		i += 1
 	return b
 
-def obrada_fajla(f):
+def obrada_fajla(f):								#citanje iz fajla
 	st = ''
-	b = []
-	bn = []
-	dates = []
-	full_dates = []
-	full_dates_n = []
+	b = []					#lista svih pozitivnih poena
+	bn = []					#lista svih negativnih poena
+	dates = []				#svi datumi samo dani
+	full_dates = []			#svi datumi sa pozitivnim poenima
+	full_dates_n = []		#svi datumi sa negativnim poenima
 	while True:
 		st = f.readline()
 		if st == 'DATE\n':
@@ -76,7 +76,7 @@ def obrada_fajla(f):
 
 def sumiraj_po_danima(b,st_set,dates_full,dates):
 	i = 0
-	suma = []
+	suma = []									#suma po danima
 	prvi = datetime.datetime(2019,1,21)
 	poslednji = datetime.datetime(2019,2,3)
 	d = (poslednji-prvi).days
@@ -88,7 +88,7 @@ def sumiraj_po_danima(b,st_set,dates_full,dates):
 	while i < len(b):
 		new = dates_full[i].replace(hour=0,minute=0)
 		if new in st_set:
-			suma[(dates_full[i] - prvi).days] += b[i]
+			suma[(dates_full[i] - prvi - datetime.timedelta(hours=6)).days] += b[i] 				#datetime.timedelta(hours=6) da bi bitke od 00:00 do 1:00 racunao u prethodni dan
 		i += 1
 
 	return suma
@@ -103,19 +103,20 @@ def uredi_datume(dates, full_dates, full_dates_n, b, bn):
 
 	st_set = set(pocetak + datetime.timedelta(x) for x in range(0, (kraj-pocetak).days+1))
 
-	suma = sumiraj_po_danima(b,st_set,full_dates,dates)
-	suman = sumiraj_po_danima(bn,st_set,full_dates_n,dates)
+	suma = sumiraj_po_danima(b,st_set,full_dates,dates)				#suma po danima pozitivna
+	suman = sumiraj_po_danima(bn,st_set,full_dates_n,dates)			#suma po danima negativna
 
 	for i in st_set:
-		if i not in dates:
-			dates.append(i)
+		if i not in dates:				#popuna dana kada se nije igralo, tj. suma[i] = 0
+			dates.append(i)			
 
 	dates.sort()
 
 	dates1 = []
 
-	for i in st_set:
+	for i in st_set:					#shiftovanje za jedan za grafik
 		dates1.append(i + datetime.timedelta(days=1))
+
 	dates1.sort()
 
 	return dates1, full_dates, suma, suman
@@ -129,8 +130,9 @@ def graph(igrac):
 
 	plt.figure(2,figsize=(15, 8))
 	plt.subplots_adjust(left=0.09, bottom=0.17, right=0.94, top=0.88)
-	ax1 = plt.subplot(121)
-	ax2 = plt.subplot(122,sharex=ax1)
+
+	ax1 = plt.subplot(121)				#po danima
+	ax2 = plt.subplot(122,sharex=ax1)	#po borbama
 
 	bar1 = ax1.bar(dates, suma, color='g',alpha=0.9, width = -0.8, align='edge',label='Zaradjeno: %d' %sum(suma))
 	ax1.set_title("Suma",fontsize=20,pad=10)
@@ -142,7 +144,7 @@ def graph(igrac):
 	bar2 = ax1.bar(dates, suman, color='r',alpha=0.9, width = -0.8, align='edge',label='Ulozeno: %d' %-sum(suman))
 	ax1.yaxis.set_major_locator(mticker.MaxNLocator(nbins=1))
 
-	raz = []
+	raz = []			#ulozeni - osvojeni, tj. stvarni poeni
 	i = 0
 	while i < len(suma):
 		if suma[i]+suman[i] > 0:
@@ -155,7 +157,7 @@ def graph(igrac):
 
 	ax1.legend(loc=0)
 
-	for rect in bar1:
+	for rect in bar1:					#ispis texta iznad bar-ova
 		height = rect.get_height()
 		ax1.text(rect.get_x() + rect.get_width()/2.0, height, '%d' % height, ha='center', va='bottom',clip_on=True)
 
