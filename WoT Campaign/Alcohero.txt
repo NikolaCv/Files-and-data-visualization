@@ -18,6 +18,110 @@ HISTORY
 FAME POINTS
 EVENT
 DATE
++ 1,655
+Participating in battle
+
+01/02/2019 22:39
++ 1,777
+Participating in battle
+
+01/02/2019 22:21
++ 1,655
+Participating in battle
+
+01/02/2019 22:08
++ 1,438
+Participating in battle
+
+01/02/2019 21:57
++ 1,727
+Participating in battle
+
+01/02/2019 21:39
++ 281
+Participating in battle
+
+01/02/2019 21:24
++ 270
+Participating in battle
+
+01/02/2019 21:06
++ 1,742
+Participating in battle
+
+01/02/2019 20:50
++ 1,837
+Participating in battle
+
+01/02/2019 20:34
++ 1,748
+Participating in battle
+
+01/02/2019 20:19
++ 1,845
+Participating in battle
+
+01/02/2019 20:04
++ 1,780
+Participating in battle
+
+01/02/2019 19:53
++ 78
+Participating in battle
+
+01/02/2019 00:12
++ 1,036
+Participating in battle
+
+31/01/2019 23:02
++ 219
+Participating in battle
+
+31/01/2019 22:43
++ 1,167
+Participating in battle
+
+31/01/2019 22:23
++ 1,752
+Participating in battle
+
+31/01/2019 22:07
++ 1,647
+Participating in battle
+
+31/01/2019 21:57
++ 321
+Participating in battle
+
+31/01/2019 21:26
++ 1,642
+Participating in battle
+
+31/01/2019 21:04
++ 1,655
+Participating in battle
+
+31/01/2019 20:34
++ 1,803
+Participating in battle
+
+31/01/2019 20:19
++ 1,796
+Participating in battle
+
+31/01/2019 19:59
++ 1,811
+Participating in battle
+
+31/01/2019 19:24
++ 1,446
+Participating in battle
+
+31/01/2019 19:06
++ 1,043
+Participating in battle
+
+31/01/2019 00:46
 + 213
 Participating in battle
 
@@ -365,10 +469,10 @@ Participating in battle
  
 HOME  COMMUNITY  PLAYERS
 Alcohero  ADD TO COMPARISON
- 5 d   13,920   7,500,103   20,259   131,696  Account created: 27/03/2012
+ 3 d   13,920   8,188,479   20,235   133,580  Account created: 27/03/2012
 CLAN
 [GX] Next Level Of Gaming
-Position: Combat Officer  Days in clan: 430
+Position: Combat Officer  Days in clan: 432
  FORUM PROFILE
  ACCOUNT MANAGEMENT
  SEARCH PLAYERS
@@ -394,14 +498,14 @@ MOST VEHICLES DESTROYED IN A BATTLE
 MASTERY BADGES: ACE TANKER
 SOLDIERS OF FORTUNE
 SOLDIERS OF FORTUNE
-Data as of 30/01/2019 23:01
-274
+Data as of 01/02/2019 22:01
+164
 RATING POSITION
 
-76,275
+111,659
 FAME POINTS TOTAL
 
-213
+0
 FAME POINTS OVER THE CURRENT HOUR
 
  VIEW MAP
@@ -511,18 +615,18 @@ III Class
 
 RATING IN CLAN [GX]
 HALL OF FAME
-Data as of 30/01/2019 04:24
+Data as of 01/02/2019 05:07
 WORLD OF TANKS RATING
 10,803
 BurakaXoxo
 10,764
 Alcohero
-10,494
+10,495
 nikod
 4 10,461
 SHIFTER___
 VICTORIES
-66.63%
+66.61%
 SHIFTER___
 65.35%
 Wrong_Step
@@ -542,7 +646,7 @@ _CATA
 AVERAGE DAMAGE PER BATTLE
 2,995
 BurakaXoxo
-2,914
+2,915
 nikod
 4 2,893
 Alcohero
@@ -698,17 +802,17 @@ More than 110,000,000 players
  
 JOIN US ON FACEBOOK
 
-2,042,971 in the community
+2,042,900 in the community
 
  
 FOLLOW US ON TWITTER
 
-42,539 subscribers
+42,530 subscribers
 
  
 WATCH US ON YOUTUBE
 
-302,828 subscribers
+302,919 subscribers
 
 wargaming.net
 PLAYER SUPPORT
