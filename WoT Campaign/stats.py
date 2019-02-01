@@ -100,7 +100,7 @@ def uredi_datume(dates, full_dates, full_dates_n, b, bn):
 	pocetak = datetime.datetime(2019,1,21)
 	kraj = datetime.datetime(2019,2,3)
 
-	st_set = set(pocetak + datetime.timedelta(x) for x in range(0, (kraj-pocetak).days+1))
+	st_set = set(pocetak + datetime.timedelta(days=x) for x in range(0, (kraj-pocetak).days+1))
 
 	suma = sumiraj_po_danima(b,st_set,full_dates,dates)				#suma po danima pozitivna
 	suman = sumiraj_po_danima(bn,st_set,full_dates_n,dates)			#suma po danima negativna
