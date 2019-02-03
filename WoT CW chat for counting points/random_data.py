@@ -8,7 +8,7 @@ random.seed(a=None)
 
 l = []
 i = 0
-while i < 3:
+while i < 150:
 	day = random.randint(1,31)
 	month = 1
 	year = 19
@@ -32,7 +32,7 @@ while i < 3:
 		j = 0
 		random_player_list = []
 		m = minute
-		while j < 5:
+		while j < 33:
 			rand_index = random.randint(0,len(wot.players)-1)
 			if wot.players[rand_index] not in random_player_list:
 				random_player_list.append(wot.players[rand_index])
@@ -40,7 +40,7 @@ while i < 3:
 
 		j = 0
 
-		while j < 10:
+		while j < 150:
 			rand_index = random.randint(0,len(random_player_list)-1)
 			hourp = hour
 			minute = random.randint(m-15,m)
