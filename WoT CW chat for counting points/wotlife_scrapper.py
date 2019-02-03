@@ -27,4 +27,4 @@ for p in soup.find_all('a'):
 
 players.sort(key=lambda str: str.lower())
 
-print(players)
+#print(players)
