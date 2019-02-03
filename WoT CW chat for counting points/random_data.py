@@ -44,7 +44,8 @@ while i < 300:
 			else:
 				second_s = str(second)
 			r = str(hour) + ':' + minute_s + ':' + second_s
-			f.write('%s (02/02/2019 %s) sample message\n' %(random_player_list[rand_index],r))
+			blank = ' '
+			f.write('%s%s(02/02/2019 %s) sample message\n' %(random_player_list[rand_index],blank,r))				#blank is not a space, but some special WG blank character
 			j += 1
 
 

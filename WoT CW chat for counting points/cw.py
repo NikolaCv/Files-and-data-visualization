@@ -8,6 +8,7 @@ style.use("classic")
 
 def processing_the_files(files,delay,picking_time,attendance_dict,battles):
 	st = ''
+	blank = ' '		#it is not a space, but some special WG blank character
 
 	for filename in files:					#going through all files
 		f = open("%s" %filename, "r")		
@@ -27,7 +28,7 @@ def processing_the_files(files,delay,picking_time,attendance_dict,battles):
 			i = 0
 			name = ''
 
-			while st[i] != ' ':					#reading name from the chat
+			while st[i] != blank:					#reading name from the chat
 				name = name + (st[i])
 				i += 1
 			i += 2
