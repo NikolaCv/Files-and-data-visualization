@@ -8,7 +8,7 @@ from matplotlib import ticker as mticker
 style.use("classic")
 #print(plt.style.available)
 
-def pretvori_st_u_broj(st):							#pretvaranje ucitanog stringa poena u int zbog ,
+def pretvori_st_u_broj(st):				#pretvaranje ucitanog stringa poena u int zbog ,
 	i = 2
 	b = 0
 
@@ -87,7 +87,7 @@ def sumiraj_po_danima(b,st_set,dates_full,dates):
 	while i < len(b):
 		new = dates_full[i].replace(hour=0,minute=0)
 		if new in st_set:
-			suma[(dates_full[i] - prvi - datetime.timedelta(hours=6)).days] += b[i] 				#datetime.timedelta(hours=6) da bi bitke od 00:00 do 1:00 racunao u prethodni dan
+			suma[(dates_full[i] - prvi - datetime.timedelta(hours=6)).days] += b[i] 		#datetime.timedelta(hours=6) da bi bitke od 00:00 do 1:00 racunao u prethodni dan
 		i += 1
 
 	return suma
@@ -182,7 +182,7 @@ def graph(igrac):
 	plt.show()
 
 
-def main():
+def main():					#napravi da cita sve fajlove nezavisno u folderu
 
 	graph('Alcohero')
 	graph('Joseph')
