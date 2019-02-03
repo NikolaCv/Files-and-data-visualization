@@ -1,7 +1,7 @@
 import bs4 as bs
 import urllib.request
 
-clan = 'gx' #input("Unesite ime klana: ")
+clan = 'gx'
 
 wotlife = 'https://en.wot-life.com/eu/clan/' + clan
 
