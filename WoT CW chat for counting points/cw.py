@@ -35,9 +35,10 @@ def processing_the_files(files,delay,picking_time,attendance_dict,battles):
 
 			datetime_of_message = dt.datetime.strptime(st[i:i+19],'%d/%m/%Y %H:%M:%S')		#datetime of message from current line
 			difference = battle_starting_time - datetime_of_message
-			if difference >= dt.timedelta(0) and difference <= picking_time:				 # !!!!		comment this 'if' out if you're using random_data.py (basically just for testing) 	!!!!
+			if difference >= dt.timedelta(0) and difference <= picking_time:
 				if name not in datetime_dict:											#if it's player's first message add it to dictionary
 					datetime_dict[name] = datetime_of_message
+		
 				if name in attendance_dict:											#if some players left the clan in the meantime it won't count them
 					if bst in attendance_dict[name]:				#if this isn't player's first message
 						if datetime_of_message - datetime_dict[name] >= delay and attendance_dict[name][bst] < 2:		#one message = 1 point (spam, or person is late), otherwise 2 points
@@ -72,13 +73,13 @@ def print_to_txt(f,attendance_dict,battles):
 
 def main():							#add 'vs [CLAN] in battles.txt'		#add customizable delay, picking_time, file name delimeters, input and output files, data directory, reading all info from .txt file
 	spreadsheet = open('spreadsheet.txt','w')							#points by days, not by battles ?
-																		#what should be done if players playing should get more points ?
+																		#what should be done if players that are playing should get more points than the ones that are waiting ?
 	os.chdir("data")
 																				
 	files = [ file for file in glob.glob("*.txt") ]		#getting files from 'data' directory that end in '.txt'
 
-	delay = dt.timedelta(seconds=0)				#delay between 2 messages to count player in as attening, to prevent spam, best delay is 1-2 mins i guess
-	picking_time = dt.timedelta(minutes=5)			#time on counter until the beginning of the battle after which players' messages will be taken into account
+	delay = dt.timedelta(seconds=0)						#delay between 2 messages to count player in as attening, to prevent spam, best delay is 1-2 mins i guess
+	picking_time = dt.timedelta(minutes=5)				#time on counter until the beginning of the battle after which players' messages will be taken into account
 
 	battles = []								#list of dates of battles
 	attendance_dict = {}						#database of each player's attendance in CW
