@@ -18,6 +18,26 @@ HISTORY
 FAME POINTS
 EVENT
 DATE
++ 1,541
+Participating in battle
+
+04/02/2019 00:06
++ 169
+Participating in battle
+
+03/02/2019 22:09
++ 251
+Participating in battle
+
+03/02/2019 21:52
++ 306
+Participating in battle
+
+03/02/2019 21:34
++ 1,860
+Participating in battle
+
+03/02/2019 19:04
 + 1,655
 Participating in battle
 
@@ -469,10 +489,10 @@ Participating in battle
  
 HOME  COMMUNITY  PLAYERS
 Alcohero  ADD TO COMPARISON
- 3 d   13,920   8,188,479   20,235   133,580  Account created: 27/03/2012
+ 3 h   13,920   8,210,763   20,235   133,897  Account created: 27/03/2012
 CLAN
 [GX] Next Level Of Gaming
-Position: Combat Officer  Days in clan: 432
+Position: Combat Officer  Days in clan: 435
  FORUM PROFILE
  ACCOUNT MANAGEMENT
  SEARCH PLAYERS
@@ -498,11 +518,11 @@ MOST VEHICLES DESTROYED IN A BATTLE
 MASTERY BADGES: ACE TANKER
 SOLDIERS OF FORTUNE
 SOLDIERS OF FORTUNE
-Data as of 01/02/2019 22:01
-164
+Data as of 04/02/2019 07:00
+246
 RATING POSITION
 
-111,659
+115,786
 FAME POINTS TOTAL
 
 0
@@ -615,9 +635,9 @@ III Class
 
 RATING IN CLAN [GX]
 HALL OF FAME
-Data as of 01/02/2019 05:07
+Data as of 04/02/2019 04:22
 WORLD OF TANKS RATING
-10,803
+10,807
 BurakaXoxo
 10,764
 Alcohero
@@ -628,7 +648,7 @@ SHIFTER___
 VICTORIES
 66.61%
 SHIFTER___
-65.35%
+65.37%
 Wrong_Step
 64.43%
 Alcohero
@@ -637,20 +657,20 @@ narkomanic
 AVERAGE EXPERIENCE PER BATTLE
 1,110
 SHIFTER___
-4 1,055
+4 1,056
 BurakaXoxo
 5 1,052
 Alcohero
 6 1,041
 _CATA
 AVERAGE DAMAGE PER BATTLE
-2,995
+2,998
 BurakaXoxo
-2,915
+2,916
 nikod
 4 2,893
 Alcohero
-5 2,744
+5 2,745
 sleven32
 AVERAGE NUMBER OF VEHICLES DESTROYED PER BATTLE
 1.85
@@ -668,10 +688,10 @@ foxinthebox_2
 KZ_Joker
 4 716
 Alcohero
-5 696
+5 695
 _Ckoba
 AVERAGE DAMAGE ASSISTED PER BATTLE
-868
+869
 nikod
 7 707
 __Magmaa
@@ -802,17 +822,17 @@ More than 110,000,000 players
  
 JOIN US ON FACEBOOK
 
-2,042,900 in the community
+2,042,913 in the community
 
  
 FOLLOW US ON TWITTER
 
-42,530 subscribers
+42,526 subscribers
 
  
 WATCH US ON YOUTUBE
 
-302,919 subscribers
+303,153 subscribers
 
 wargaming.net
 PLAYER SUPPORT

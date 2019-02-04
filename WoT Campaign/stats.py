@@ -80,7 +80,7 @@ def sumiraj_po_danima(b,st_set,dates_full,dates):
 	poslednji = datetime.datetime(2019,2,3)
 	d = (poslednji-prvi).days
 
-	for i in range (0,d+1):
+	for i in range (0,d+2):
 		suma.append(0)
 
 	i = 0
@@ -100,7 +100,7 @@ def uredi_datume(dates, full_dates, full_dates_n, b, bn):
 	pocetak = datetime.datetime(2019,1,21)
 	kraj = datetime.datetime(2019,2,3)
 
-	st_set = set(pocetak + datetime.timedelta(days=x) for x in range(0, (kraj-pocetak).days+1))
+	st_set = set(pocetak + datetime.timedelta(days=x) for x in range(0, (kraj-pocetak).days+2))
 
 	suma = sumiraj_po_danima(b,st_set,full_dates,dates)				#suma po danima pozitivna
 	suman = sumiraj_po_danima(bn,st_set,full_dates_n,dates)			#suma po danima negativna
@@ -137,7 +137,7 @@ def graph(igrac):
 	ax1.set_title("Suma",fontsize=20,pad=10)
 	ax1.set_ylabel('Broj Poena',rotation=45,fontsize=15,labelpad=25)
 	ax1.grid(True)
-	ax1.axis([min(dates) - datetime.timedelta(days=1), max(dates) + datetime.timedelta(hours=4.8), 1.1*min(suman), 1.1*max(suma)])
+	ax1.axis([min(dates) - datetime.timedelta(days=1), dates[-2] + datetime.timedelta(hours=4.8), 1.1*min(suman), 1.1*max(suma)])
 	ax1.tick_params(axis='y', which='major', pad=10)
 
 	bar2 = ax1.bar(dates, suman, color='r',alpha=0.9, width = -0.8, align='edge',label='Ulozeno: %d' %-sum(suman))
